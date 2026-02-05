@@ -17,7 +17,7 @@ Using Selenium for web scraping and a combination of NLP and statistical techniq
 The goal is to simulate how an automotive company or analyst might use unstructured online discussion data to inform marketing strategy, positioning, and product decisions.
 
 
-Data Source
+**Data Source**
 
 Website: Edmunds Forums
 
